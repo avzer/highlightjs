@@ -1,0 +1,9 @@
+{
+    "name": "avzer/highlightjs",
+    "type": "library",
+    "description": "A Markdown Editor",
+    "homepage": "https://github.com/highlightjs/highlight.js",
+    "support": {
+        "issues": "https://github.com/highlightjs/highlight.js/issues"
+    }
+}
